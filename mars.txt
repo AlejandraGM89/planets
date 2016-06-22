@@ -2,3 +2,4 @@ This is Mars
 It is a red planet
 There is not water
 Its beautiful
+It has no life
